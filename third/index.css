@@ -1,0 +1,48 @@
+body, html {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .bar {
+    height: 100px;
+    width: 100%;
+  }
+  
+  .bar-big {
+    height: 200px;
+    width: 100%;
+  }
+  
+  .topBar {
+    background-color: #D8D8D8;
+    padding: 25px;
+    box-sizing: border-box;
+  }
+  
+  .topBar-div {
+    width: 50px;
+    height: 50px;
+    background-color: #4A90E2;
+  }
+  
+  .mid {
+    background-color: #fff;
+    box-sizing: border-box;
+    padding: 50px;
+  }
+  
+  .bar1 {
+    background-color: #4A90E2;
+  }
+  
+  .bar2 {
+    background-color: #50E3C2;
+  }
+  
+  .bar3 {
+    background-color: #B8E986;
+  }
+  
+  .bar4 {
+    background-color: #F8E71C;
+  }

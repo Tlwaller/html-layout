@@ -1,0 +1,68 @@
+.top {
+    border: 3px solid black;
+    width: 100%;
+    height: 20vh;
+}
+
+.mid {
+    border: 3px dotted black;
+    width: 100%;
+    height: 30vh;
+    position: relative;
+    top: 20px;
+}
+
+.message {
+    border: 1px solid gray;
+    position: relative;
+    top: 40px;
+    text-align: center;
+    height: 40vh;
+    width: 50%;
+    margin: auto;
+    box-shadow: 2px 2px 2px;
+}
+
+.text {
+    position: relative;
+    top: 88px;
+    letter-spacing: 10px;
+}
+#green {
+    background-color: green;
+    height: 90%;
+    width: 35%;
+    position: relative;
+    top: 5%;
+    left: 10%;
+}
+
+#purple {
+    background-color: purple;
+    height: 70%;
+    width: 4%;
+    position: relative;
+    left: 1%;
+    bottom: 65%;
+}
+
+#blue {
+    background-color: lightblue;
+    height: 130px;
+    width: 140px;
+    position: relative;
+    left: 400px;
+    bottom: 218px;
+    border-radius: 50%;
+}
+
+#beige {
+    background-color: beige;
+    height: 140px;
+    width: 640px;
+    position: absolute;
+    margin: 0 auto;
+    left: 24px;
+    top: 30px;
+    box-shadow: 8px 8px 5px;
+}
